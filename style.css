@@ -5,6 +5,9 @@
 }
 .main-bg{
     background-image: url(./images/bg-pattern-top-desktop.svg), url(./images/bg-pattern-bottom-desktop.svg);
-    height: 500px;
     background-repeat: no-repeat;
+}
+.main-art{
+    display: grid;
+    border: 1px solid red;
 }
