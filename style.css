@@ -6,6 +6,7 @@
 }
 html{
     font-size: 10px;
+    font-family: 'League Spartan', sans-serif;
 }
 .main-bg{
     background-image: url(./images/bg-pattern-top-desktop.svg), url(./images/bg-pattern-bottom-desktop.svg);
@@ -27,5 +28,5 @@ html{
     align-items: center;
 }
 .star-txt{
-    
+
 }
