@@ -13,14 +13,13 @@ html{
     background-repeat: no-repeat;
 }
 .main-art{
-    border: 1px solid red;
+    width: 85vw;
+    margin: auto;
 }
 .top-div{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    border: 1px solid black;
-    width: 85vw;
-    margin: auto;
+    border: 1px solid black;   
 }
 .top-txts h2{
     font-weight: 900;
