@@ -19,6 +19,8 @@ html{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     border: 1px solid black;
+    width: 85vw;
+    margin: auto;
 }
 .top-txts h2{
     font-weight: 900;
