@@ -20,6 +20,15 @@ html{
     grid-template-columns: repeat(2, 1fr);
     border: 1px solid black;
 }
+.top-txts h2{
+    font-weight: 900;
+    color: hsl(300, 43%, 22%);
+    font-size: 3.4rem;
+}
+.top-txts p{
+  color: hsl(303, 10%, 53%);  
+  font-weight: 500;
+}
 .star-flex{
     display: flex;
     border: 1px solid blue;
