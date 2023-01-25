@@ -10,7 +10,11 @@
 .main-art{
     border: 1px solid red;
 }
+.top-div{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
 .star-flex{
     display: flex;
-    border: 1px solid blue;
+    background-color: hsl(333, 50%, 90%);
 }
