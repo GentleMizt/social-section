@@ -19,7 +19,8 @@ html{
 .top-div{
     display: grid;
     grid-template-columns: 55% 45%;
-    border: 1px solid black;   
+    
+    /* border: 1px solid black;    */
 }
 .top-txts h2{
     font-weight: 900;
@@ -39,14 +40,14 @@ html{
     padding: .8rem 0 .8rem 0;
     margin-top: 1rem;
     align-items: center;
-    width: 65%;
+    width: 85%;
     justify-content: space-around;
 }
 .two{
-    margin-left: 3em;
+    margin-left: 5rem;
 }
 .three{
-    margin-left: 5rem;
+    margin-left: 9rem;
 }
 .star-txt{
 
