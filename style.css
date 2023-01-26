@@ -62,4 +62,6 @@ html{
 }
 .card{
     background-color: hsl(300, 43%, 22%);
+    padding: 1rem;
+    width: 50%;
 }
