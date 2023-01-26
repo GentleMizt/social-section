@@ -32,12 +32,6 @@ html{
   font-weight: 700;
   font-size: 1.3rem;
 }
-.top-txts{
-    border: 1px solid red;
-}
-.top-ratings{
-    border: 1px solid blue;
-}
 .star-flex{
     display: flex;
     border-radius: .5rem;
