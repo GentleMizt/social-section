@@ -34,10 +34,13 @@ html{
 }
 .star-flex{
     display: flex;
-    border: 1px solid blue;
+    border-radius: .5rem;
     background-color: hsl(333, 50%, 90%);
-    padding: .7rem 0 .7rem 0;
+    padding: .8rem 0 .8rem 0;
+    margin-top: 1rem;
     align-items: center;
+    width: 65%;
+    justify-content: space-around;
 }
 .star-txt{
 
