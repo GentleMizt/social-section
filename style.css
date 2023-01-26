@@ -15,12 +15,11 @@ html{
 .main-art{
     width: 85vw;
     margin: auto;
+    padding-top: 7rem;
 }
 .top-div{
     display: grid;
     grid-template-columns: 55% 45%;
-    
-    /* border: 1px solid black;    */
 }
 .top-txts h2{
     font-weight: 900;
