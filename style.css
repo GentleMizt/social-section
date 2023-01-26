@@ -18,7 +18,7 @@ html{
 }
 .top-div{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 55% 45%;
     border: 1px solid black;   
 }
 .top-txts h2{
@@ -32,6 +32,12 @@ html{
   font-weight: 700;
   font-size: 1.3rem;
 }
+.top-txts{
+    border: 1px solid red;
+}
+.top-ratings{
+    border: 1px solid blue;
+}
 .star-flex{
     display: flex;
     border-radius: .5rem;
@@ -41,6 +47,12 @@ html{
     align-items: center;
     width: 65%;
     justify-content: space-around;
+}
+.two{
+    margin-left: 3em;
+}
+.three{
+    margin-left: 5rem;
 }
 .star-txt{
 
