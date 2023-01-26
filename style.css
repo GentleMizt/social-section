@@ -55,3 +55,11 @@ html{
     font-weight: 600;
     font-size: 1.5rem
 }
+.bottom-div{
+    display: flex;
+    margin-top: 4rem;
+    justify-content: space-between;
+}
+.card{
+    background-color: hsl(300, 43%, 22%);
+}
