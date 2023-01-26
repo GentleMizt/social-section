@@ -24,8 +24,10 @@ html{
 .top-txts h2{
     font-weight: 900;
     color: hsl(300, 43%, 22%);
-    font-size: 3.4rem;
+    font-size: 4rem;
     margin-bottom: 1rem;
+    word-spacing: -1px;
+    letter-spacing: -1px;
 }
 .top-txts p{
   color: hsl(303, 10%, 53%);  
@@ -48,6 +50,8 @@ html{
 .three{
     margin-left: 9rem;
 }
-.star-txt{
-
+.star-txt h4{
+    color: hsl(300, 43%, 22%);
+    font-weight: 600;
+    font-size: 1.5rem
 }
