@@ -64,7 +64,7 @@ html{
     background-color: hsl(300, 43%, 22%);
     flex-basis: 31.5%;
     border-radius: 1rem;
-    padding: 5.5rem 0;
+    /* padding: 5.5rem 0; */
 }
 .cd1{ 
     margin-left: 1rem;
@@ -72,9 +72,9 @@ html{
 .profile{
     display: flex;
     align-items: center;
-    border: 1px solid red;
     width: 80%;
     margin: auto;
+    margin: 2rem;
 }
 .profile .img-div img{
     border-radius: 100%;
@@ -91,9 +91,8 @@ html{
 }
 .write-up{
     color: white;
-    border: 1px solid blue;
-    font-size: 1.4rem;
-    /* text-align: center; */
+    font-size: 1.6rem;
     width: 80%;
     margin: auto;
+    margin-bottom: 4rem;
 }
