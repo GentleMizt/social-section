@@ -122,7 +122,9 @@ html{
     }
     .star-flex{
         width: 100%;
+        flex-direction: column;
     }
+    
     .two, .three{
         margin: 1.5rem 0 0 0;
     }
