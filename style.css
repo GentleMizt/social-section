@@ -79,3 +79,9 @@ html{
     border-radius: 100%;
     width: 45%;
 }
+.white{
+    color: white;
+}
+.purple{
+    color: hsl(333, 80%, 67%);
+}
