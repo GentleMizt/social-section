@@ -85,3 +85,11 @@ html{
 .purple{
     color: hsl(333, 80%, 67%);
 }
+.write-up{
+    color: white;
+    border: 1px solid blue;
+    font-size: 1.6rem;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
