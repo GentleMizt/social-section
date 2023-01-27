@@ -124,7 +124,9 @@ html{
         width: 100%;
         flex-direction: column;
     }
-    
+    .star-img{
+        margin: .3rem 0;
+    }
     .two, .three{
         margin: 1.5rem 0 0 0;
     }
