@@ -70,8 +70,11 @@ html{
     margin-left: 1rem;
 }
 .cd2{
-    /* margin-bottom: 5rem; */
-    
+    position: relative;
+    top: 3rem;
+}
+.cd3{
+
 }
 .profile{
     display: flex;
