@@ -157,9 +157,13 @@ html{
     .bottom-div{
         flex-direction: column;
     }
+    .profile{
+        margin: 2rem auto;
+    }
     .cd1, .cd2, .cd3{
         margin-left: 0;
         margin-bottom: 0;
+        padding: 2rem 0 4.5rem 0;
     }
     .cd3{
         margin-top: 2rem;
