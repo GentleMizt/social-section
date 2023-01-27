@@ -120,6 +120,12 @@ html{
     .top-div{
         grid-template-columns: repeat(1,1fr);
     }
+    .top-txts{
+        text-align: center;
+    }
+    .top-txts h2{
+        font-size: 4rem;
+    }
     .star-flex{
         width: 100%;
         flex-direction: column;
