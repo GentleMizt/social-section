@@ -60,12 +60,16 @@ html{
     margin-top: 4rem;
     justify-content: space-between;
 }
-.card{
-  /* padding: 1rem; */
-    width: 50%;
+.cd1, .cd2, .cd3{
+    background-color: hsl(300, 43%, 22%);
+    flex-basis: 32%;
+
 }
 .cd1{
-    flex-basis: 30%;
+    
     margin-left: 1rem;
-    background-color: hsl(300, 43%, 22%);
+}
+.cd2{
+}
+.cd3{
 }
