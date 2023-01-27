@@ -141,6 +141,9 @@ html{
     .top-txts p{
         font-size: 1.5rem;
     }
+    .top-ratings{
+        margin: 2.5rem 0;
+    }
     .star-flex{
         width: 100%;
         flex-direction: column;
