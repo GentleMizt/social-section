@@ -117,5 +117,7 @@ html{
 
 /* RESPONSIVE WEB DESIGN STARTS HERE */
 @media (max-width: 450px){
-    
+    .top-div{
+        grid-template-columns: repeat(1,1fr);
+    }
 }
