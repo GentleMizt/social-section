@@ -59,6 +59,7 @@ html{
     display: flex;
     margin-top: 5rem;
     justify-content: space-between;
+    align-items: flex-start;
 }
 .cd1, .cd2, .cd3{
     background-color: hsl(300, 43%, 22%);
@@ -69,14 +70,14 @@ html{
 .cd1{ 
     margin-left: 1rem;
 }
-.cd2{
+/* .cd2{
     position: relative;
     top: 2rem;
 }
 .cd3{
     position: relative;
     top: 4rem;
-}
+} */
 .profile{
     display: flex;
     align-items: center;
@@ -104,3 +105,16 @@ html{
     margin: auto;
     /* margin-bottom: 4rem; */
 }
+
+
+
+
+
+
+
+
+
+
+
+
+/* RESPONSIVE WEB DESIGN STARTS HERE */
