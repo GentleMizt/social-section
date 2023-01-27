@@ -61,7 +61,11 @@ html{
     justify-content: space-between;
 }
 .card{
-    background-color: hsl(300, 43%, 22%);
-    padding: 1rem;
+  /* padding: 1rem; */
     width: 50%;
+}
+.cd1{
+    flex-basis: 30%;
+    margin-left: 1rem;
+    background-color: hsl(300, 43%, 22%);
 }
