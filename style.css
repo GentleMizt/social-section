@@ -73,11 +73,15 @@ html{
     display: flex;
     align-items: center;
     border: 1px solid red;
-    width: 45%;
+    width: 80%;
+    margin: auto;
 }
 .profile .img-div img{
     border-radius: 100%;
     width: 45%;
+}
+.img-txt{
+    margin-left: -2.5rem;
 }
 .white{
     color: white;
@@ -88,8 +92,8 @@ html{
 .write-up{
     color: white;
     border: 1px solid blue;
-    font-size: 1.6rem;
-    text-align: center;
+    font-size: 1.4rem;
+    /* text-align: center; */
     width: 80%;
     margin: auto;
 }
