@@ -70,14 +70,12 @@ html{
 .cd1{ 
     margin-left: 1rem;
 }
-/* .cd2{
-    position: relative;
-    top: 2rem;
+.cd2{
+    margin-top: 2rem;
 }
 .cd3{
-    position: relative;
-    top: 4rem;
-} */
+    margin-top: 4rem;
+}
 .profile{
     display: flex;
     align-items: center;
