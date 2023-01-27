@@ -21,6 +21,12 @@ html{
     display: grid;
     grid-template-columns: 55% 45%;
 }
+.desktop{
+    display: block;
+}
+.mobile{
+    display: none;
+}
 .top-txts h2{
     font-weight: 900;
     color: hsl(300, 43%, 22%);
@@ -119,6 +125,12 @@ html{
 @media (max-width: 450px){
     .top-div{
         grid-template-columns: repeat(1,1fr);
+    }
+    .desktop{
+        display: none;
+    }
+    .mobile{
+        display: block;
     }
     .top-txts{
         text-align: center;
