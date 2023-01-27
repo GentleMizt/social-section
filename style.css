@@ -154,4 +154,14 @@ html{
     .two, .three{
         margin: 1.5rem 0 0 0;
     }
+    .bottom-div{
+        flex-direction: column;
+    }
+    .cd1, .cd2, .cd3{
+        margin-left: 0;
+        margin-bottom: 0;
+    }
+    .cd3{
+        margin-top: 2rem;
+    }
 }
