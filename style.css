@@ -138,6 +138,9 @@ html{
     .top-txts h2{
         font-size: 4rem;
     }
+    .top-txts p{
+        font-size: 1.5rem;
+    }
     .star-flex{
         width: 100%;
         flex-direction: column;
