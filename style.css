@@ -63,7 +63,8 @@ html{
 .cd1, .cd2, .cd3{
     background-color: hsl(300, 43%, 22%);
     flex-basis: 32%;
-
+    border-radius: 1rem;
+    text-align: center;
 }
 .cd1{
     
