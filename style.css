@@ -71,10 +71,11 @@ html{
 }
 .cd2{
     position: relative;
-    top: 3rem;
+    top: 2rem;
 }
 .cd3{
-
+    position: relative;
+    top: 4rem;
 }
 .profile{
     display: flex;
