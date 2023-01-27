@@ -64,13 +64,16 @@ html{
     background-color: hsl(300, 43%, 22%);
     flex-basis: 32%;
     border-radius: 1rem;
-    text-align: center;
+    /* text-align: center; */
 }
-.cd1{
-    
+.cd1{ 
     margin-left: 1rem;
 }
-.cd2{
+.profile{
+    display: flex;
+    align-items: center;
 }
-.cd3{
+.profile .img-div img{
+    border-radius: 100%;
+    width: 50%;
 }
