@@ -180,7 +180,9 @@ html{
         width: 100%;
     }
     .star-img img{
-        width: 12%;
+        width: 10%;
     }
-    
+    .star-txt h4{
+        font-size: 1rem;
+    }
 }
