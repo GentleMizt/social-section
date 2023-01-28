@@ -169,3 +169,9 @@ html{
         margin-top: 2rem;
     }
 }
+
+
+/*------------------------- RESPONSIVENESS FOR TABLET VIEW ------------------------- */
+@media(max-width: 890px){
+    
+}
