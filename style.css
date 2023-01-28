@@ -173,5 +173,7 @@ html{
 
 /*------------------------- RESPONSIVENESS FOR TABLET VIEW ------------------------- */
 @media(max-width: 890px){
-    
+    .top-div{
+        grid-template-columns: 50% 40%;
+    }
 }
