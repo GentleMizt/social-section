@@ -179,6 +179,9 @@ html{
     .top-txts h2{
         font-size: 2.7rem;
     }
+    .top-txts p{
+        font-size: 1.5rem;
+    }
     .star-flex{
         width: 100%;
     }
